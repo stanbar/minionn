@@ -1,7 +1,7 @@
 # Requirements
 ```bash
-sudo apt install libssl-dev libgmp-dev libglib2.0-dev
-pip install pybind11 cppimport onnx
+sudo apt install libssl-dev libgmp-dev libglib2.0-dev protobuf-compiler
+pip install --no-use-pep517 pybind11 cppimport onnx
 ```
 
 # Installation
