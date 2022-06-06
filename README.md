@@ -1,6 +1,6 @@
 # Requirements
 ```bash
-sudo apt install libssl-dev libgmp-dev libglib2.0-dev protobuf-compiler pip
+sudo apt install libssl-dev libgmp-dev libglib2.0-dev protobuf-compiler pip cmake git
 pip install --no-use-pep517 pybind11 cppimport onnx
 ```
 
